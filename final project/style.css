@@ -1,0 +1,38 @@
+body{
+    background-color: white;
+    background-image: linear-Gradient(90deg,white 0%, #2eacd4 100%);
+    /*sets the back ground colors and how to transition from white to blue*/
+}
+.button{
+    background-color: white;
+    /*sets back ground color of button*/
+    width: 100px;
+    /*sets width of button*/
+    height: 30px;
+    /*sets height of button*/
+    border-radius: 12px;
+    border-color: lightblue;
+    /*sets color of border edge to give it some definition*/
+}
+/*this is for the larger button for sound*/
+.lgButton{
+    background-color: white;
+    /*sets back ground color of button*/
+    width: 200px;
+    /*sets width of button*/
+    height: 30px;
+    /*sets height of button*/
+    border-radius: 12px;
+    border-color: lightblue;
+    /*sets color of border edge to give it some definition*/
+}
+.table2{
+    background-image: linear-gradient(white,lightblue);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.table3{
+    background-image: linear-gradient(white,lightblue);
+    background-color: white;
+
+}
